@@ -22,7 +22,7 @@ A simple Rock Paper Scissors game built using **HTML, CSS, and JavaScript**.
 index.html
 style.css
 app.js
-images/
+images
 ```
 
 ## Author
